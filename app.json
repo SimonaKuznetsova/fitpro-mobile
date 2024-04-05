@@ -1,4 +1,5 @@
 {
-  "name": "Fitpro",
-  "displayName": "Fitpro"
+  "name": "fitpro",
+  "displayName": "Fitpro",
+  "packagerOpts": { "config": "metro.config.js", "sourceExts": [ "js","jsx","svg","ts","tsx"] }
 }
